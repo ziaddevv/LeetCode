@@ -22,7 +22,7 @@ public:
 
     int tupleSameProduct(vector<int>& nums) {
 
-        map<int, int> m;
+        unordered_map<int, int> m;
         int res = 0;
 
         for (int i = 0; i < nums.size(); i++) {
