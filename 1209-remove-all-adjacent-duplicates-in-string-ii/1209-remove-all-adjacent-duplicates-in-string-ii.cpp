@@ -1,17 +1,18 @@
 class Solution {
 public:
-
-    string fromStack(stack<pair<char, int>> &st){
+    string fromStack(stack<pair<char, int>>& st) {
         string res;
+        res.reserve(st.size());
 
-        while(st.size()>0){
+        while (!st.empty()) {
             res.push_back(st.top().first);
             st.pop();
         }
 
-        reverse(res.begin(),res.end());
+        reverse(res.begin(), res.end());
         return res;
     }
+
     string removeDuplicates(string s, int k) {
         stack<pair<char, int>> st;
 
@@ -34,8 +35,7 @@ public:
             }
         }
 
-
-        string res =  fromStack(st);
+        string res = fromStack(st);
 
         return res;
     }
