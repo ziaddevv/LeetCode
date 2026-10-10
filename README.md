@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
+## String
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ziaddevv/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Stack
+|  |
+| ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ziaddevv/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
