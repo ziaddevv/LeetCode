@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ziaddevv/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ziaddevv/leet/tree/master/0231-power-of-two) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Counting
 |  |
 | ------- |
