@@ -8,16 +8,17 @@ public:
             pq.push({reward1[i]-reward2[i],i});
         }
 
-        unordered_set<int> st;
+        unordered_map<int,bool> m;
 
         while(k--){
-            st.insert(pq.top().second);
+            // st.insert(pq.top().second);
+            m[pq.top().second]=true;
             pq.pop();
         }
         int sum = 0;
         for(int i=0;i<n;i++){
 
-            if(st.find(i)!=st.end()){
+            if(m[i]==true){
                 sum+=reward1[i];
             }else{
                 sum+=reward2[i];
