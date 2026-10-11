@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ziaddevv/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
+| [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Math
 |  |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
+| [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 ## Greedy
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 ## Counting
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ziaddevv/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
