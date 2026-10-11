@@ -1,29 +1,21 @@
 class Solution {
 public:
     int miceAndCheese(vector<int>& reward1, vector<int>& reward2, int k) {
-        priority_queue<pair<int,int>> pq;
-        int n= reward1.size();
-        for(auto i =0;i<n;i++){
-
-            pq.push({reward1[i]-reward2[i],i});
-        }
-
-        unordered_map<int,bool> m;
-
-        while(k--){
-            // st.insert(pq.top().second);
-            m[pq.top().second]=true;
-            pq.pop();
-        }
+        int n = reward1.size();
         int sum = 0;
-        for(int i=0;i<n;i++){
+        vector<int> diff(n);
 
-            if(m[i]==true){
-                sum+=reward1[i];
-            }else{
-                sum+=reward2[i];
-            }
+        for (int i = 0; i < n; i++) {
+            sum += reward2[i];
+            diff[i] = reward1[i] - reward2[i];
         }
+
+        sort(diff.rbegin(), diff.rend());
+
+        for (int i = 0; i < k; i++) {
+            sum += diff[i];
+        }
+
         return sum;
     }
 };
