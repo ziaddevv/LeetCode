@@ -8,7 +8,7 @@ public:
             pq.push({reward1[i]-reward2[i],i});
         }
 
-        set<int> st;
+        unordered_set<int> st;
 
         while(k--){
             st.insert(pq.top().second);
