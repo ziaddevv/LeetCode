@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
+| [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ziaddevv/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
 ## Graph Theory
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ziaddevv/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
 <!---LeetCode Topics End-->
