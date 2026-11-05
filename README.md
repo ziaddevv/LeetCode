@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ziaddevv/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ziaddevv/leet/tree/master/0189-rotate-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 ## Greedy
 |  |
