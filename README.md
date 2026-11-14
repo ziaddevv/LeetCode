@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/ziaddevv/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/ziaddevv/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Sorting
 |  |
 | ------- |
