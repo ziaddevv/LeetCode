@@ -8,7 +8,6 @@ public:
         int lst =max_h[0];
         res += max_h[0];
 
-        cout<<lst;
         for(int i=1;i<n;i++){
             int a = max_h[i];
 
