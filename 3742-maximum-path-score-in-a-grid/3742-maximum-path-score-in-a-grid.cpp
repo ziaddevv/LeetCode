@@ -9,6 +9,7 @@ public:
 
         dp[0][0][0] = 0;
 
+        k = min(k,m+n);
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 int cost = grid[i][j] == 0 ? 0 : 1;
