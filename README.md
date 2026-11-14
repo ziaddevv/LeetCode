@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
