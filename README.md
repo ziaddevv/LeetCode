@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## String
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
+## Matrix
+|  |
+| ------- |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 <!---LeetCode Topics End-->
