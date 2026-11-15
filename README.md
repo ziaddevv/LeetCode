@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
+| [1797-design-authentication-manager](https://github.com/ziaddevv/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2766-relocate-marbles](https://github.com/ziaddevv/LeetCode/tree/master/2766-relocate-marbles) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ziaddevv/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -134,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ziaddevv/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/ziaddevv/LeetCode/tree/master/1797-design-authentication-manager) |
+## Design
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/ziaddevv/LeetCode/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/ziaddevv/LeetCode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
