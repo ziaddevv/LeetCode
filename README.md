@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2766-relocate-marbles](https://github.com/ziaddevv/LeetCode/tree/master/2766-relocate-marbles) |
+| [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ziaddevv/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/ziaddevv/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ziaddevv/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Two Pointers
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/ziaddevv/LeetCode/tree/master/1797-design-authentication-manager) |
+## Number Theory
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
