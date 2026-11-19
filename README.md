@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ziaddevv/leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ziaddevv/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
+| [0640-solve-the-equation](https://github.com/ziaddevv/LeetCode/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/ziaddevv/LeetCode/tree/master/0640-solve-the-equation) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/ziaddevv/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ziaddevv/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ziaddevv/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/ziaddevv/LeetCode/tree/master/0640-solve-the-equation) |
 | [2766-relocate-marbles](https://github.com/ziaddevv/LeetCode/tree/master/2766-relocate-marbles) |
 ## Breadth-First Search
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ziaddevv/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/ziaddevv/LeetCode/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
