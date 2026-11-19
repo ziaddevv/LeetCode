@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ziaddevv/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ziaddevv/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ziaddevv/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/ziaddevv/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 ## Counting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ziaddevv/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ziaddevv/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
