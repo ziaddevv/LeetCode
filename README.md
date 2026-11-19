@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1726-tuple-with-same-product](https://github.com/ziaddevv/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [2611-mice-and-cheese](https://github.com/ziaddevv/LeetCode/tree/master/2611-mice-and-cheese) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2766-relocate-marbles](https://github.com/ziaddevv/LeetCode/tree/master/2766-relocate-marbles) |
 | [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ziaddevv/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ziaddevv/LeetCode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/ziaddevv/LeetCode/tree/master/0670-maximum-swap) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3618-split-array-by-prime-indices](https://github.com/ziaddevv/LeetCode/tree/master/3618-split-array-by-prime-indices) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ziaddevv/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ziaddevv/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
