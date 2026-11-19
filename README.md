@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ziaddevv/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/ziaddevv/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3618-split-array-by-prime-indices](https://github.com/ziaddevv/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3676-count-bowl-subarrays](https://github.com/ziaddevv/LeetCode/tree/master/3676-count-bowl-subarrays) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ziaddevv/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/ziaddevv/LeetCode/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/ziaddevv/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3618-split-array-by-prime-indices](https://github.com/ziaddevv/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ziaddevv/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Two Pointers
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3618-split-array-by-prime-indices](https://github.com/ziaddevv/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 ## Primality Test
 |  |
 | ------- |
