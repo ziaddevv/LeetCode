@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ziaddevv/leet/tree/master/0189-rotate-array) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/ziaddevv/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ziaddevv/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/ziaddevv/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0777-swap-adjacent-in-lr-string](https://github.com/ziaddevv/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ziaddevv/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ziaddevv/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
