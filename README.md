@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ziaddevv/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3618-split-array-by-prime-indices](https://github.com/ziaddevv/LeetCode/tree/master/3618-split-array-by-prime-indices) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ziaddevv/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ziaddevv/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/ziaddevv/LeetCode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ziaddevv/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ziaddevv/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ziaddevv/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Stack
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/ziaddevv/LeetCode/tree/master/3115-maximum-prime-difference) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/ziaddevv/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
