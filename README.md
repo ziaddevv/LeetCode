@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/ziaddevv/LeetCode/tree/master/0640-solve-the-equation) |
+## Database
+|  |
+| ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ziaddevv/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 <!---LeetCode Topics End-->
